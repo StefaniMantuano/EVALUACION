@@ -1,0 +1,15 @@
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\bin\Debug\net6.0\PirmerEvaluacion.exe
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\bin\Debug\net6.0\PirmerEvaluacion.deps.json
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\bin\Debug\net6.0\PirmerEvaluacion.runtimeconfig.json
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\bin\Debug\net6.0\PirmerEvaluacion.dll
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\bin\Debug\net6.0\ref\PirmerEvaluacion.dll
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\bin\Debug\net6.0\PirmerEvaluacion.pdb
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\obj\Debug\net6.0\PirmerEvaluacion.csproj.AssemblyReference.cache
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\obj\Debug\net6.0\PirmerEvaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\obj\Debug\net6.0\PirmerEvaluacion.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\obj\Debug\net6.0\PirmerEvaluacion.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\obj\Debug\net6.0\PirmerEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\obj\Debug\net6.0\PirmerEvaluacion.dll
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\obj\Debug\net6.0\ref\PirmerEvaluacion.dll
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\obj\Debug\net6.0\PirmerEvaluacion.pdb
+C:\Users\CompuStore\source\repos\PirmerEvaluacion\PirmerEvaluacion\obj\Debug\net6.0\PirmerEvaluacion.genruntimeconfig.cache

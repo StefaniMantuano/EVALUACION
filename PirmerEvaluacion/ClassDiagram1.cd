@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PirmerEvaluacion.PorfeNombramientos">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABABAAAAAAAABAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>PorfeNombramientos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PirmerEvaluacion.ProfeContrato">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAgAgAAAAADAQAgAAgAAAAAAAAA=</HashCode>
+      <FileName>ProfeContrato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PirmerEvaluacion.ProfeHoras">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAARAAAAAAAAAAAAAAAABAAAAAABAAAAEAAEA=</HashCode>
+      <FileName>ProfeHoras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PirmerEvaluacion.Profesor">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAQAAAAEAEAAQgAAAABAgAIAIAAAACAEAAI=</HashCode>
+      <FileName>Profesor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PirmerEvaluacion.Program">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
